@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mhis/static/css/main.a617e044.chunk.css",
+    "main.css": "/mhis/static/css/main.5fadef85.chunk.css",
     "main.js": "/mhis/static/js/main.7b00b120.chunk.js",
     "main.js.map": "/mhis/static/js/main.7b00b120.chunk.js.map",
     "runtime-main.js": "/mhis/static/js/runtime-main.2c176f19.js",
@@ -10,14 +10,14 @@
     "static/js/3.83f0657c.chunk.js": "/mhis/static/js/3.83f0657c.chunk.js",
     "static/js/3.83f0657c.chunk.js.map": "/mhis/static/js/3.83f0657c.chunk.js.map",
     "index.html": "/mhis/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/mhis/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.5fadef85.chunk.css.map": "/mhis/static/css/main.5fadef85.chunk.css.map",
     "static/js/2.f3b08398.chunk.js.LICENSE.txt": "/mhis/static/js/2.f3b08398.chunk.js.LICENSE.txt",
     "static/media/mhis_logo.e90098cc.png": "/mhis/static/media/mhis_logo.e90098cc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2c176f19.js",
     "static/js/2.f3b08398.chunk.js",
-    "static/css/main.a617e044.chunk.css",
+    "static/css/main.5fadef85.chunk.css",
     "static/js/main.7b00b120.chunk.js"
   ]
 }
